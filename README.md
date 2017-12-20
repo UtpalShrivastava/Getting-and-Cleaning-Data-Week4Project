@@ -5,14 +5,7 @@ This repo was created to finish the assignment for week 4 of Getting and Cleanin
 * Second, download the R source code into your R working directory.
 * Finally, execute R source code to generate tidy data file.
 
-### Data description
-The variables in the data X are sensor signals measured with waist-mounted smartphone from 30 subjects. The variable in the data Y indicates activity type the subjects performed during recording.The detailed description is given in the coursera assignment link.
-
-### Code explanation
-The code combined training and test dataset. From this partial variables were extracted to create another dataset with the averages of each variable for each activity.
-
-### New dataset
-The new generated dataset consist of variables calculated based on the mean and standard deviation. Each row of the dataset is an average of each activity type for all subjects.
+The decription and data link is given in the course assginment.
 
 ### The code was written based on the instruction of this assignment as given in coursera course.
 Read training and test dataset into R environment.
